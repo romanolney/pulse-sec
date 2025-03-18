@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sec-edgar-app/static/css/main.dbf9c95e.css",
+    "main.js": "/sec-edgar-app/static/js/main.5fcff504.js",
+    "static/js/453.a40bf36e.chunk.js": "/sec-edgar-app/static/js/453.a40bf36e.chunk.js",
+    "index.html": "/sec-edgar-app/index.html",
+    "main.dbf9c95e.css.map": "/sec-edgar-app/static/css/main.dbf9c95e.css.map",
+    "main.5fcff504.js.map": "/sec-edgar-app/static/js/main.5fcff504.js.map",
+    "453.a40bf36e.chunk.js.map": "/sec-edgar-app/static/js/453.a40bf36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf9c95e.css",
+    "static/js/main.5fcff504.js"
+  ]
+}
